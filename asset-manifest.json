@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/azhwars/static/css/main.073c9b0a.css",
+    "main.js": "/azhwars/static/js/main.e96f06f7.js",
+    "static/js/787.0844d616.chunk.js": "/azhwars/static/js/787.0844d616.chunk.js",
+    "static/media/logo.svg": "/azhwars/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/azhwars/index.html",
+    "main.073c9b0a.css.map": "/azhwars/static/css/main.073c9b0a.css.map",
+    "main.e96f06f7.js.map": "/azhwars/static/js/main.e96f06f7.js.map",
+    "787.0844d616.chunk.js.map": "/azhwars/static/js/787.0844d616.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e96f06f7.js"
+  ]
+}
