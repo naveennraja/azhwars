@@ -1,13 +1,5 @@
 import React from 'react';
-import {
-	Avatar,
-	Card,
-	CardActions,
-	CardContent,
-	CardMedia,
-	Grid,
-	Typography,
-} from '@mui/material/';
+import { Avatar, Grid, Typography } from '@mui/material/';
 import './styles.css';
 import { Link } from 'react-router-dom';
 import Vishnu from '../images/Vishnu.png';
