@@ -1,0 +1,10 @@
+.detailPage {
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    height :100vh;
+}
+.detailImage {
+    width: 10rem;
+}
+.detailPage > * {
+    color :#fff !important;
+}
