@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/azhwars/static/css/main.c81f5a34.css",
-    "main.js": "/azhwars/static/js/main.b3c1056d.js",
+    "main.css": "/azhwars/static/css/main.60e1f685.css",
+    "main.js": "/azhwars/static/js/main.76fb05de.js",
     "static/js/787.0844d616.chunk.js": "/azhwars/static/js/787.0844d616.chunk.js",
+    "static/media/Azhwar_Background.png": "/azhwars/static/media/Azhwar_Background.723006f9dca9347da002.png",
+    "static/media/Divyadesham_clickable.png": "/azhwars/static/media/Divyadesham_clickable.09388403b0be2d3d97c1.png",
     "static/media/Vishnu.png": "/azhwars/static/media/Vishnu.a1deb0e6d81c52153e48.png",
     "static/media/Andal.png": "/azhwars/static/media/Andal.1dc2095e85e239520226.png",
     "static/media/Periyalvar.png": "/azhwars/static/media/Periyalvar.c93375433e9118a1e25a.png",
     "static/media/Bhoothath.png": "/azhwars/static/media/Bhoothath.8e3833192ebea1d3ffcf.png",
+    "static/media/Works_Clickable.png": "/azhwars/static/media/Works_Clickable.9202953cbf3e9d7fb3b6.png",
     "static/media/Thirumangaialvar.png": "/azhwars/static/media/Thirumangaialvar.ce513fb9148b1372b5a5.png",
     "static/media/Thiruppaanalvar.png": "/azhwars/static/media/Thiruppaanalvar.d5d35a8670787f1f9675.png",
     "static/media/Nammalvar.png": "/azhwars/static/media/Nammalvar.cd7307f061a67fade80e.png",
     "static/media/Poigai.png": "/azhwars/static/media/Poigai.42b7e7c4a8b58bad7d93.png",
+    "static/media/Life_Clickable.png": "/azhwars/static/media/Life_Clickable.e8d589c8e800b82edad5.png",
     "static/media/Kulashekharalvar.png": "/azhwars/static/media/Kulashekharalvar.90076a2e0dcc125a7858.png",
     "static/media/Thondaradippodialvar.png": "/azhwars/static/media/Thondaradippodialvar.6d7d17e1766d4610b52d.png",
     "static/media/Peyalvar.png": "/azhwars/static/media/Peyalvar.ec44a14906066c474254.png",
     "static/media/Madhurakavialvar.png": "/azhwars/static/media/Madhurakavialvar.47447b7d65f4d2cd2e5f.png",
     "static/media/Thirumalisaialvar.png": "/azhwars/static/media/Thirumalisaialvar.242058a03886ec6cba11.png",
     "index.html": "/azhwars/index.html",
-    "main.c81f5a34.css.map": "/azhwars/static/css/main.c81f5a34.css.map",
-    "main.b3c1056d.js.map": "/azhwars/static/js/main.b3c1056d.js.map",
+    "main.60e1f685.css.map": "/azhwars/static/css/main.60e1f685.css.map",
+    "main.76fb05de.js.map": "/azhwars/static/js/main.76fb05de.js.map",
     "787.0844d616.chunk.js.map": "/azhwars/static/js/787.0844d616.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c81f5a34.css",
-    "static/js/main.b3c1056d.js"
+    "static/css/main.60e1f685.css",
+    "static/js/main.76fb05de.js"
   ]
 }
