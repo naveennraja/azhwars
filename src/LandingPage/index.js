@@ -10,11 +10,8 @@ export default () => {
 
 	return (
 		<Typography component="div" className="landingPageContainer">
-			<Typography component="h1" className="heading">
+			<Typography component="h1" className="heading" color="primary">
 				The Divine Lives & Works of the Alwars
-			</Typography>
-			<Typography component="h3" className="heading">
-				A comprehensive Multimedia works
 			</Typography>
 			<Typography component="div" id="sunrays"></Typography>
 			<Typography component="img" className="backgroundImage" src={Vishnu}></Typography>
