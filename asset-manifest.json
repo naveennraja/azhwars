@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/azhwars/static/css/main.60e1f685.css",
-    "main.js": "/azhwars/static/js/main.76fb05de.js",
+    "main.css": "/azhwars/static/css/main.8a7e514c.css",
+    "main.js": "/azhwars/static/js/main.60fee028.js",
     "static/js/787.0844d616.chunk.js": "/azhwars/static/js/787.0844d616.chunk.js",
     "static/media/Azhwar_Background.png": "/azhwars/static/media/Azhwar_Background.723006f9dca9347da002.png",
     "static/media/Divyadesham_clickable.png": "/azhwars/static/media/Divyadesham_clickable.09388403b0be2d3d97c1.png",
@@ -21,12 +21,12 @@
     "static/media/Madhurakavialvar.png": "/azhwars/static/media/Madhurakavialvar.47447b7d65f4d2cd2e5f.png",
     "static/media/Thirumalisaialvar.png": "/azhwars/static/media/Thirumalisaialvar.242058a03886ec6cba11.png",
     "index.html": "/azhwars/index.html",
-    "main.60e1f685.css.map": "/azhwars/static/css/main.60e1f685.css.map",
-    "main.76fb05de.js.map": "/azhwars/static/js/main.76fb05de.js.map",
+    "main.8a7e514c.css.map": "/azhwars/static/css/main.8a7e514c.css.map",
+    "main.60fee028.js.map": "/azhwars/static/js/main.60fee028.js.map",
     "787.0844d616.chunk.js.map": "/azhwars/static/js/787.0844d616.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60e1f685.css",
-    "static/js/main.76fb05de.js"
+    "static/css/main.8a7e514c.css",
+    "static/js/main.60fee028.js"
   ]
 }
